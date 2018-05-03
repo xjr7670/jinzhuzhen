@@ -1,5 +1,5 @@
 var xin = true, yin = true;
-var delay = 10;
+var delay = 20;
 var step = 1;
 var x = 50, y = 50;
 var cnt = document.getElementById('main');
