@@ -4,6 +4,8 @@ var step = 1;
 var x = 50, y = 50;
 var cnt = document.getElementById('main');
 
+// github push test
+
 function floatDiv() {
     // x, y坐标的最小值
     // 当它们减小到负值的时候，马上置为最小值
